@@ -28,4 +28,3 @@ The scraper fetches five important data points from the World Bank API which inc
 5.	Web scraping exists in a complex legal landscape. While scraping public data is generally acceptable, you must carefully consider website terms of service and adhere to best practices of web scraping. APIs provide a clear legal framework through their terms and conditions, making them a safer choice from a compliance perspective.
 
 
-<img width="468" height="646" alt="image" src="https://github.com/user-attachments/assets/25c10043-0709-4a2a-b7bc-22896012b4f1" />
